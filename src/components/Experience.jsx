@@ -3,17 +3,17 @@ import React from 'react';
 const timelineData = [
   {
     id: 1,
-    role: 'Frontend Developer & Designer',
-    company: 'Freelance / Self-Employed',
-    period: '2023 - Present',
+    role: 'Full Stack Developer',
+    company: 'Blowiz pvt. ltd. CHH. SambhajiNagar',
+    period: '2025 - Present',
     desc: 'Building responsive web interfaces, optimizing UI performance, and working with modern frontend stacks including React and CSS Frameworks.'
   },
   {
     id: 2,
     role: 'Web Development Trainee',
-    company: 'Tech Academy / Self-Learning',
-    period: '2022 - 2023',
-    desc: 'Mastered core frontend principles (HTML5, CSS3, JavaScript ES6+), DOM manipulation, dynamic web layout engineering, and Git workflows.'
+    company: 'Infinova Consaltants CHH. SambhajiNagar',
+    period: '2025 - 2026',
+    desc: 'Using React frontend principles (HTML5, CSS3, JavaScript), DOM manipulation, dynamic web layout engineering, and Git workflows.'
   }
 ];
 
