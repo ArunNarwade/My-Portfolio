@@ -10,16 +10,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 
 
-// echo "# My-Portfolio" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/ArunNarwade/My-Portfolio.git
-// git push -u origin main
 
-
-
-// git add .
-// git commit -m "Fix Vite base path for deployment"
-// git push origin main

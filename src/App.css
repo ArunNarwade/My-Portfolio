@@ -842,6 +842,8 @@ button:hover {
   .home-content h1 {
     font-size: 2rem;
   }
+  
+  
 
   .about {
     grid-template-columns: 1fr;
@@ -851,7 +853,7 @@ button:hover {
   }
 
   .about-img img {
-    width: 220px;
+    width: 100%;
     margin: 0 auto 20px;
   }
 
